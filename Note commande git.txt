@@ -1,0 +1,8 @@
+Note commande git
+git status
+
+git add .
+
+git commit -m 'Commentaire'
+
+git push origin main
