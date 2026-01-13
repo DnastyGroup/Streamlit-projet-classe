@@ -1,8 +1,12 @@
-Note commande git
+Note commande
+--Pour verifier les status de mon projet
 git status
 
+--pour ajouter mes modifications
 git add .
 
+--pour ajouter les commentaire
 git commit -m 'Commentaire'
 
+-- pour l'nevoyer sur mon github
 git push origin main
