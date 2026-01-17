@@ -9,12 +9,12 @@ Installation Python 3.7 ou supérieur in your laptop
 * Choose version 3.7 or supérieur
 * Download and install it
 
-2. Install Streamlit:
-  *run the following command in your terminal
+2. Install Streamlit: 
+  * run the following command in your terminal
   ```
     pip install streamlit
 
-    or
+    or (verifier si c'est installé : streamlit hello)
 
     pip3 install streamlit
     ```
